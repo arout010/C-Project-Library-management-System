@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1493199389 source:e:\mca_2\projects\library management system\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+
+1495058778 source:f:\mca_2\projects\library management system\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<iomanip>
+	<fstream>
+
+1497499213 source:c:\users\akshaya\desktop\akshay project and ppt\library management system\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<iomanip>
+	<fstream>
+	<limits>
+
